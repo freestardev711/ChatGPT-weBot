@@ -6,15 +6,9 @@
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/SnapdragonLee/ChatGPT-weBot)
 
-Using ChatGPT-weBot based on ChatGPT(API key call), Stable Diffusion AI drawing and official WeChat hook interface. [中文文档](./Readme_ZH.md) | English
+Using ChatGPT-weBot based on ChatGPT(API key call), Stable Diffusion AI drawing and official WeChat hook interface.
 
 <div align="center"> <img src="assets/DALL·E3  - A robot is working hard to transform, modify, and revolutionize the WeChat software.png" width="50%"> </div>
-
-###### Author
-
-[Snapdragon Lee (github.com)](https://github.com/SnapdragonLee) 
-
-*cover created from [DALL·E3 (openai.com)](https://labs.openai.com/)*
 
 
 
@@ -132,30 +126,6 @@ Using ChatGPT-weBot based on ChatGPT(API key call), Stable Diffusion AI drawing 
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/SnapdragonLee/ChatGPT-weBot.svg)](https://starchart.cc/SnapdragonLee/ChatGPT-weBot) 
-
-
-
-## Log
-
-- 2023.10.23 Version v1.20.2 is released, fix some memory leak and change XML parser.
-- 2023.10.18 Version v1.2 is released, with new SDK and new WeChat version.
-- 2023.10.17 Complete the Python ws_client, update the source code to support the new SDK, and prepare for  main architecture upgrades
-- 2023.10.15 A large number of APIs are added and type-testing is conducted
-- 2023.10.10 Build and improve the SDKs and support the ws client
-- 2023.3.24 Exception handler updates and other pull requests from [rogue-shadowdancer](https://github.com/rogue-shadowdancer) and [wbbeyourself](https://github.com/wbbeyourself)
-- 2023.3.23 Fix bugs for Stable Diffusion and others, released v1.01 version
-- 2023.3.21 Add plenty of new features, fixed bugs, released v1.00 version
-- 2023.3.4 Add Stable Diffusion into function (English Only)
-- 2023.3.3 Add multithread and rewrite the whole program structure
-- 2023.2.27 Add zip version of WeChat and `dual-start.bat`,  fix the bug that prevents other operations when the response keyword is empty
-- 2023.2.25 Add the option in `config.json` to quote the original question before answering 
-- 2023.2.25 Complete all API function on features and Debugs for errors
-- 2023.2.23 Accomplish some API listed on features
-- 2023.2.23 Fix streaming issue when connecting to reverse server
-- 2023.2.21 Report issue on ChatGPT API
-- 2023.2.20 v0.90-dev released, for basic ChatGPT API usage on WeChat
-- 2023.2.17 Start to develop the whole process
-
 
 
 
